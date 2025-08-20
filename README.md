@@ -40,9 +40,7 @@ This app fetches live weather data from an API (like **OpenWeatherMap**) and dis
 Enter a city name to see the weather details 🌦️.
 📸 Screenshot
 
-<img width="1905" height="1057" alt="image" src="https://github.com/user-attachments/assets/511c62d2-fa23-471f-a841-9c3e9e2acb3f" />
-
-
+<img width="1412" height="1066" alt="Screenshot 2025-08-20 233355" src="https://github.com/user-attachments/assets/eec110a6-6c84-49dc-87cb-c2c6ccc166f1" />
 
 (Add a screenshot or demo image here)
 
