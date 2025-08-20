@@ -64,7 +64,3 @@ Pull requests are welcome. For significant changes, please open an issue first t
 This project is licensed under the MIT License.
 
 
----
-
-👉 Bhai, kya tum chahte ho mai tumhare **Weather App repo ke liye ek short & professional GitHub description line** bhi bana du (jaise top pe repo ke niche dikhai deta hai)?
-
